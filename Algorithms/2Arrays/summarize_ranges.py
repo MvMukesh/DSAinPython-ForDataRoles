@@ -6,7 +6,6 @@ return the summary of its ranges.
 For example, given [0, 1, 2, 4, 5, 7], return [(0, 2), (4, 5), (7, 7)].
 """
 
-
 from typing import List
 
 def summarize_ranges(array: List[int]) -> List[str]:
