@@ -1,4 +1,5 @@
 """
+Author: https://www.linkedin.com/in/mukesh-manral/
     Given a linked list, find the first node of a cycle in it.
     1 -> 2 -> 3 -> 4 -> 5 -> 1  => 1
     A -> B -> C -> D -> E -> C  => C
