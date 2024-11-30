@@ -6,10 +6,10 @@ Reverse a singly linked list. For example:
 After reverse:
 4 --> 3 --> 2 --> 1
 """
-#
+
+
 # Iterative solution
 # T(n)- O(n)
-#
 def reverse_list(head):
     """
     :type head: ListNode
@@ -26,10 +26,9 @@ def reverse_list(head):
     return prev
 
 
-#
+
 # Recursive solution
 # T(n)- O(n)
-#
 def reverse_list_recursive(head):
     """
     :type head: ListNode
