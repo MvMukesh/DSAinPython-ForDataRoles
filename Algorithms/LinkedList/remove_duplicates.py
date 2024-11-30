@@ -3,6 +3,8 @@ Author: https://www.linkedin.com/in/mukesh-manral/
 
 Given a linked list, remove duplicates from it such that 
 each element appears only once.
+
+Note: Minor updated required
 """
 
 class Node():
