@@ -1,4 +1,4 @@
-from DataStructuresWithQA.arrays import (
+from DataStructuresWithQA.2Arrays import (
     delete_nth, delete_nth_naive,
     flatten_iter, flatten,
     garage,
