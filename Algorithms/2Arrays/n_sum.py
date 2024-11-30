@@ -31,23 +31,22 @@ Example:
 (TL:DR) because -9 + 4 = -5
 """
 
-
 def n_sum(n, nums, target, **kv):
     """
-    n: int
-    nums: list[object]
-    target: object
-    sum_closure: function, optional
-        Given two elements of nums, return sum of both.
-    compare_closure: function, optional
-        Given one object of nums and target, return -1, 1, or 0.
-    same_closure: function, optional
-        Given two object of nums, return bool.
-    return: list[list[object]]
+        n: int
+        nums: list[object]
+        target: object
+        sum_closure: function, optional
+            Given two elements of nums, return sum of both.
+        compare_closure: function, optional
+            Given one object of nums and target, return -1, 1, or 0.
+        same_closure: function, optional
+            Given two object of nums, return bool.
+        return: list[list[object]]
 
-    Note:
-    1. type of sum_closure's return should be same 
-       as type of compare_closure's first param
+        Note:
+        1. type of sum_closure's return should be same 
+        as type of compare_closure's first param
     """
 
     def sum_closure_default(a, b):
@@ -138,4 +137,4 @@ def n_sum(n, nums, target, **kv):
     same_closure = kv.get('same_closure', same_closure_default)
     compare_closure = kv.get('compare_closure', compare_closure_default)
     nums.sort()
-    return n_sum(n, nums, target)
+    return n_sum(n,nums,target)
