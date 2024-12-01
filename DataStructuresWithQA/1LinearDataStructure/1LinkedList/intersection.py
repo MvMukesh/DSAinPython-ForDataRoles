@@ -1,5 +1,6 @@
 """
 Author: https://www.linkedin.com/in/mukesh-manral/
+LeetCode: https://leetcode.com/problems/intersection-of-two-linked-lists/description/
    This function takes two lists and returns the node they have in common, if any.
    In this example:
    1 -> 3 -> 5
