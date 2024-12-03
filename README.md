@@ -2,7 +2,8 @@
 
 ## 1. `<a name='TableofContent'></a>`Table of Content
 
-<!-- vscode-markdown-toc https://www.linkedin.com/in/mukesh-manral/ -->
+<!--https://www.linkedin.com/in/mukesh-manral/ -->
+<!-- vscode-markdown-toc -->
 
 * 1. [Table of Content](#TableofContent)
 * 2. [Data Structures Implementation](#DataStructuresImplementation)
