@@ -1,6 +1,6 @@
 # Approches and Problem-Solving
 
-## 1. `<a name='TableofContent'></a>`Table of Content
+## 1. <a name='TableofContent'></a>Table of Content
 
 <!--https://www.linkedin.com/in/mukesh-manral/ -->
 <!-- vscode-markdown-toc -->
@@ -74,9 +74,9 @@
     - No for any tool
     - No for Design
 
-## 2. `<a name='DataStructuresImplementation'></a>`Data Structures Implementation
+## 2. <a name='DataStructuresImplementation'></a>Data Structures Implementation
 
-### 2.1. `<a name='CommonDSImplementation'></a>`Common DS Implementation
+### 2.1. <a name='CommonDSImplementation'></a>Common DS Implementation
 
 - [X] Stack
 - [X] Queue
@@ -102,7 +102,7 @@
   - [ ] BFS
   - [ ] DFS
 
-### 2.2. `<a name='CommonAlgoImplementation'></a>`Common Algo Implementation
+### 2.2. <a name='CommonAlgoImplementation'></a>Common Algo Implementation
 
 - [ ] Sorting
   - [ ] Binary
@@ -123,9 +123,9 @@
   - [ ] Rabin Karp
 
 
-## 3. `<a name='SpecialView'></a>`Special View
+## 3. <a name='SpecialView'></a>Special View
 
-### 3.1. `<a name='TopicinSpecialView'></a>`Topics in Special View
+### 3.1. <a name='TopicinSpecialView'></a>Topics in Special View
 
 - [ ] Binary Search
 - [ ] Depth First Search
@@ -139,7 +139,7 @@
 - [ ] Advanced Data Structure
 - [ ] Other
 
-#### 3.1.1. `<a name='PracticeUsingSpecialView'></a>`Practice using Special View
+#### 3.1.1. <a name='PracticeUsingSpecialView'></a>Practice using Special View
 
 - [ ] Object Oriented Design
 - [ ] Amazon Online Assessment
@@ -147,9 +147,9 @@
 - [ ] Google Online Assessment
 - [ ] Twitter Online Assessment
 
-## 4. `<a name='CodingInterviewPatterns'></a>`Coding Interview Patterns
+## 4. <a name='CodingInterviewPatterns'></a>Coding Interview Patterns
 
-### 4.1. `<a name='Patterns'></a>`Patterns
+### 4.1. <a name='Patterns'></a>Patterns
 
 - [ ] Sliding Window
 - [ ] Two Pointers
@@ -169,9 +169,9 @@
 - [ ] Topological Sort
 - [ ] Miscellaneous
 
-## 5. `<a name='DynamicProgrammingPatterns'></a>`Dynamic Programming Patterns
+## 5. <a name='DynamicProgrammingPatterns'></a>Dynamic Programming Patterns
 
-### 5.1. `<a name='Patterns-1'></a>`Patterns
+### 5.1. <a name='Patterns-1'></a>Patterns
 
 - [ ] Knapsack
 - [ ] Unbounded Knapsack
@@ -179,12 +179,12 @@
 - [ ] Palindromic Subsequence
 - [ ] Longest Common Substring
 
-## 6. `<a name='SystemDesign'></a>`System Design
+## 6. <a name='SystemDesign'></a>System Design
 
 **Reference** :
 [List of Questions asked on System Design](https://leetcode.com/discuss/interview-question/1140451/Helpful-list-of-LeetCode-Posts-on-System-Design-at-Facebook-Google-Amazon-Uber-Microsoft)
 
-## 7. `<a name='DailyLogs'></a>`Daily Logs
+## 7. <a name='DailyLogs'></a>Daily Logs
 
 | Day Count | Topic | Problem                            | Level | Time | Notes | Solution | Category | R - 1 | R - 2 | R - 3 | R - 4 |
 | --------- | ------ | ---------------------------------- | ----- | ---- | ----- | -------- | -------- | ----- | ----- | ----- | ----- |
