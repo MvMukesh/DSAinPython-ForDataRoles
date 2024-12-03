@@ -35,10 +35,19 @@
 
 ### 2.1. <a name='CommonDSImplementation'></a>Common DS Implementation
 
-- [X] Stack
-- [X] Queue
-- [ ] Linked List
-  - [ ] Doubly Linked List
+<label>
+  
+</label>
+
+- [X] <a href="https://www.youtube.com/watch?v=sl8sMXwWVbw">Nodes</a> 
+- [X] Linked List
+  - [X] Singly Linked List
+  - [X] Doubly Linked List
+  - [X] Circular Linked List
+   - [X] Circular Singly Linked List
+   - [X] Circular Doubly Linked List
+- [ ] Stack
+- [ ] Queue
 - [ ] Hashmap
 - [ ] Tree
   - [ ] Tree Implementation
