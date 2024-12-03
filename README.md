@@ -157,9 +157,11 @@
 
 ## 7. <a name='DailyLogs'></a>Daily Logs
 
-| Day Count | Topic | Problem                            | Level | Time | Notes | Solution | Category | R - 1 | R - 2 | R - 3 | R - 4 |
-| --------- | ------ | ---------------------------------- | ----- | ---- | ----- | -------- | -------- | ----- | ----- | ----- | ----- |
-| 1         |    ❌    | Implement Stack                    | Easy  | 20 m |       |          |          |       |       |       |       |
+| Problem Count | Topic |Level                            | Problem | Solution | Notes | Time | R - 1 | R - 2 | R - 3 |
+| --------- | ------ | ---------------------------------- | ----- | ----- | -------- | -------- | ----- | ----- | ----- |
+|  | `Linked List` |||||||||
+| 1 | - | Easy | [LeetCode](https://leetcode.com/problems/reverse-linked-list/)  | [Reverse Linked List](https://github.com/MvMukesh/DSAinPython-ForDataRoles/blob/main/solutions/reverse_linked_list.py) |   updating notes...    |  ❌  |       |       |       |
+| 2         |    -    | Medium | [LeetCode](https://leetcode.com/problems/add-two-numbers/)  | [Add two numbers](https://github.com/MvMukesh/DSAinPython-ForDataRoles/blob/main/solutions/add_two_numbers.py) |  updating notes...| ❌|     |       |     | 
 
 
 ---
