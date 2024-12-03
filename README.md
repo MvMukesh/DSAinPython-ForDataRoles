@@ -86,22 +86,6 @@
   - [ ] Rabin Karp
 
 
-<h2> <a name='SpecialView'></a>Special View</h2>
-
-### 1. <a name='TopicinSpecialView'></a>Topics in Special View
-
-- [ ] Binary Search
-- [ ] Depth First Search
-- [ ] Backtracking
-- [ ] Breadth First Search
-- [ ] Graph
-- [ ] Two pointers
-- [ ] Priority Queue
-- [ ] Dynamic Programming
-- [ ] Divide and Conquer
-- [ ] Advanced Data Structure
-- [ ] Other
-
 ## <a name='CodingInterviewPatterns'></a>Coding Interview Patterns
 
 <a href="https://medium.com/@manralai/only-15-patterns-to-master-any-coding-interview-570a3afc9042">Patterns</a>
