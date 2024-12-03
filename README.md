@@ -115,7 +115,7 @@
 
 ## 4. <a name='CodingInterviewPatterns'></a>Coding Interview Patterns
 
-### 4.1. <a name='Patterns'></a>Patterns
+### <a name='Patterns'></a>Patterns
 
 - [ ] Sliding Window
 - [ ] Two Pointers
