@@ -44,6 +44,9 @@
     - [X] <a>Circular Singly Linked List</a>
         - [X] <a href="https://www.youtube.com/watch?v=vYjW5ggHUSQ">Circular Singly Linked List + All Insertion Operations</a>
         - [X] <a href="https://www.youtube.com/watch?v=XZCmXX40174">Circular Singly Linked List + All Deletion Operations</a>
+    - [X] <a>Circular Doubly Linked List</a>
+        - [X] <a href="">Circular Doubly Linked List + All Insertion Operations</a>
+        - [X] <a href="">Circular Doubly Linked List + All Deletion Operations</a>
 - [ ] Array & List    
 - [ ] Stack
 - [ ] Queue
