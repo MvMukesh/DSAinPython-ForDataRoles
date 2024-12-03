@@ -2,10 +2,21 @@
 
 ![maxresdefault](https://github.com/user-attachments/assets/11351d8a-56d7-4f8c-ae63-796bd379a795)
 
- <h3><a href="https://www.youtube.com/playlist?list=PLREhfdPXr-ejqAKVpVSVPhVLQKyRsVc1N">Full PlayList</a></h3>
+ <h2><a href="https://www.youtube.com/playlist?list=PLREhfdPXr-ejqAKVpVSVPhVLQKyRsVc1N">Full PlayList</a></h2>
 
 
-## 1. <a name='TableofContent'></a>Table of Content
+| Problem Count | Topic |Level                            | Problem | Solution | Notes | Time | R - 1 | R - 2 | R - 3 |
+| --------- | ------ | ---------------------------------- | ----- | ----- | -------- | -------- | ----- | ----- | ----- |
+|  | `Linked List` |||||||||
+| 1 | - | Easy | [LeetCode](https://leetcode.com/problems/reverse-linked-list/)  | [Reverse Linked List](https://github.com/MvMukesh/DSAinPython-ForDataRoles/blob/main/solutions/reverse_linked_list.py) |   updating notes...    |  ❌  |       |       |       |
+| 2 |    -    | Medium | [LeetCode](https://leetcode.com/problems/add-two-numbers/)  | [Add two numbers](https://github.com/MvMukesh/DSAinPython-ForDataRoles/blob/main/solutions/add_two_numbers.py) |  updating notes...| ❌|     |       |     | 
+| 3 |    -    | Medium | [LeetCode](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)  | [Remove Nth Node From End of List](https://github.com/MvMukesh/DSAinPython-ForDataRoles/blob/main/solutions/remove_nth_node_from_end_of_list.py) |  updating notes...| ❌|     |       |     |
+
+
+---
+
+
+## <a name='TableofContent'></a>Table of Content
 
 <!--https://www.linkedin.com/in/mukesh-manral/ -->
 <!-- vscode-markdown-toc -->
@@ -26,7 +37,6 @@
 
   * 5.1. [Patterns](#Patterns-1)
 * 6. [System Design Imp.](#SystemDesign)
-* 7. [Daily Logs](#DailyLogs)
 
 <!-- vscode-markdown-toc-config
     numbering=true
@@ -36,7 +46,7 @@
 <!-- /vscode-markdown-toc -->
 
 
-## 2. <a name='DataStructuresImplementation'></a>Data Structures Implementation
+## <a name='DataStructuresImplementation'></a>Data Structures Implementation
 
 ### 2.1. <a name='CommonDSImplementation'></a>Common DS Implementation
 
@@ -94,7 +104,7 @@
   - [ ] Rabin Karp
 
 
-## 3. <a name='SpecialView'></a>Special View
+## <a name='SpecialView'></a>Special View
 
 ### 3.1. <a name='TopicinSpecialView'></a>Topics in Special View
 
@@ -118,7 +128,7 @@
 - [ ] Google Online Assessment
 - [ ] Twitter Online Assessment
 
-## 4. <a name='CodingInterviewPatterns'></a>Coding Interview Patterns
+## <a name='CodingInterviewPatterns'></a>Coding Interview Patterns
 
 <a href="https://medium.com/@manralai/only-15-patterns-to-master-any-coding-interview-570a3afc9042">Patterns</a>
 
@@ -140,7 +150,7 @@
 - [ ] Topological Sort
 - [ ] Miscellaneous
 
-## 5. <a name='DynamicProgrammingPatterns'></a>Dynamic Programming Patterns
+## <a name='DynamicProgrammingPatterns'></a>Dynamic Programming Patterns
 
 ### 5.1. <a name='Patterns-1'></a>Patterns
 
@@ -150,20 +160,10 @@
 - [ ] Palindromic Subsequence
 - [ ] Longest Common Substring
 
-## 6. <a name='SystemDesign'></a>System Design
+## <a name='SystemDesign'></a>System Design
 
 **Reference** :
 [List of Questions asked on System Design](https://leetcode.com/discuss/interview-question/1140451/Helpful-list-of-LeetCode-Posts-on-System-Design-at-Facebook-Google-Amazon-Uber-Microsoft)
-
-## 7. <a name='DailyLogs'></a>Daily Logs
-
-| Problem Count | Topic |Level                            | Problem | Solution | Notes | Time | R - 1 | R - 2 | R - 3 |
-| --------- | ------ | ---------------------------------- | ----- | ----- | -------- | -------- | ----- | ----- | ----- |
-|  | `Linked List` |||||||||
-| 1 | - | Easy | [LeetCode](https://leetcode.com/problems/reverse-linked-list/)  | [Reverse Linked List](https://github.com/MvMukesh/DSAinPython-ForDataRoles/blob/main/solutions/reverse_linked_list.py) |   updating notes...    |  ❌  |       |       |       |
-| 2 |    -    | Medium | [LeetCode](https://leetcode.com/problems/add-two-numbers/)  | [Add two numbers](https://github.com/MvMukesh/DSAinPython-ForDataRoles/blob/main/solutions/add_two_numbers.py) |  updating notes...| ❌|     |       |     | 
-| 3 |    -    | Medium | [LeetCode](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)  | [Remove Nth Node From End of List](https://github.com/MvMukesh/DSAinPython-ForDataRoles/blob/main/solutions/remove_nth_node_from_end_of_list.py) |  updating notes...| ❌|     |       |     |
-
 
 ---
 ---
