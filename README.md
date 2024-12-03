@@ -1,5 +1,7 @@
 # Approches and Problem-Solving
 
+![maxresdefault](https://github.com/user-attachments/assets/11351d8a-56d7-4f8c-ae63-796bd379a795)
+
 ## 1. <a name='TableofContent'></a>Table of Content
 
 <!--https://www.linkedin.com/in/mukesh-manral/ -->
