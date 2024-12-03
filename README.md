@@ -41,11 +41,11 @@
 
 - [X] <a href="https://www.youtube.com/watch?v=sl8sMXwWVbw">Nodes</a> 
 - [X] <a href="https://www.youtube.com/watch?v=8ihoMeITq8g">Linked List  + All Operations</a>
-  - [X] Singly Linked List <a href="https://www.youtube.com/watch?v=XT2ESCMV4_M">Singly Linked List + All Operations</a>
-  - [X] Doubly Linked List
-  - [X] Circular Linked List
-   - [X] Circular Singly Linked List
-   - [X] Circular Doubly Linked List
+  - [X] <a href="https://www.youtube.com/watch?v=XT2ESCMV4_M">Singly Linked List + All Operations</a>
+  - [X] <a href="https://www.youtube.com/watch?v=aYkDFs-ATR0">Doubly Linked List + All Operations</a>
+  - [X] <a href="https://www.youtube.com/watch?v=vYjW5ggHUSQ">Circular Singly Linked List</a>
+   - [X] <a href="https://www.youtube.com/watch?v=vYjW5ggHUSQ">Circular Singly Linked List + All Insertion Operations</a>
+   - [X] Circular Doubly Linked List <a href="https://www.youtube.com/watch?v=XZCmXX40174">Circular Singly Linked List + All Deletion Operations</a>
 - [ ] Stack
 - [ ] Queue
 - [ ] Hashmap
