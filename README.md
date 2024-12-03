@@ -161,7 +161,8 @@
 | --------- | ------ | ---------------------------------- | ----- | ----- | -------- | -------- | ----- | ----- | ----- |
 |  | `Linked List` |||||||||
 | 1 | - | Easy | [LeetCode](https://leetcode.com/problems/reverse-linked-list/)  | [Reverse Linked List](https://github.com/MvMukesh/DSAinPython-ForDataRoles/blob/main/solutions/reverse_linked_list.py) |   updating notes...    |  ❌  |       |       |       |
-| 2         |    -    | Medium | [LeetCode](https://leetcode.com/problems/add-two-numbers/)  | [Add two numbers](https://github.com/MvMukesh/DSAinPython-ForDataRoles/blob/main/solutions/add_two_numbers.py) |  updating notes...| ❌|     |       |     | 
+| 2 |    -    | Medium | [LeetCode](https://leetcode.com/problems/add-two-numbers/)  | [Add two numbers](https://github.com/MvMukesh/DSAinPython-ForDataRoles/blob/main/solutions/add_two_numbers.py) |  updating notes...| ❌|     |       |     | 
+| 3 |    -    | Medium | [LeetCode](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)  | [Remove Nth Node From End of List](https://github.com/MvMukesh/DSAinPython-ForDataRoles/blob/main/solutions/remove_nth_node_from_end_of_list.py) |  updating notes...| ❌|     |       |     |
 
 
 ---
