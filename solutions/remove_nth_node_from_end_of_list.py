@@ -1,4 +1,3 @@
-# coding: utf-8
 """
 Author: https://www.linkedin.com/in/mukesh-manral/
 LeetCode: https://leetcode.com/problems/remove-nth-node-from-end-of-list/

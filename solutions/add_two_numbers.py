@@ -1,9 +1,7 @@
-# coding: utf-8
 """
 Author: https://www.linkedin.com/in/mukesh-manral/
 LeetCode: https://leetcode.com/problems/add-two-numbers/
 """
-
 
 class ListNode:  #Manralai
     def __init__(self, val=0, next=None):
