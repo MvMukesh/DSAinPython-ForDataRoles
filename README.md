@@ -12,8 +12,9 @@
 | 2 |    -    | Medium | [LeetCode](https://leetcode.com/problems/add-two-numbers/)  | [Add two numbers](https://github.com/MvMukesh/DSAinPython-ForDataRoles/blob/main/solutions/add_two_numbers.py) |  updating notes...| ❌|     |       |     | 
 | 3 |    -    | Medium | [LeetCode](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)  | [Remove Nth Node From End of List](https://github.com/MvMukesh/DSAinPython-ForDataRoles/blob/main/solutions/remove_nth_node_from_end_of_list.py) |  updating notes...| ❌|     |       |     |
 
+<br>
 
----
+<br>
 
 
 <!--https://www.linkedin.com/in/mukesh-manral/ -->
@@ -28,15 +29,12 @@
 <!-- /vscode-markdown-toc -->
 
 
-<h2> <a name='DataStructuresImplementation'></a>Data Structures Implementation - Videos</h2>
+
 
 [![Playlist Image](https://github.com/user-attachments/assets/11351d8a-56d7-4f8c-ae63-796bd379a795)](https://www.youtube.com/playlist?list=PLREhfdPXr-ejqAKVpVSVPhVLQKyRsVc1N)
 
-### 1. <a name='CommonDSImplementation'></a>`DataStructures Implementation`
+<h2> <a name='DataStructuresImplementation'></a>`Data Structures Implementation - Videos`</h2>
 
-<label>
-  
-</label>
 
 - [X] <a href="https://www.youtube.com/watch?v=sl8sMXwWVbw">Nodes</a> 
 - [X] <a href="https://www.youtube.com/watch?v=8ihoMeITq8g">Linked List</a>
