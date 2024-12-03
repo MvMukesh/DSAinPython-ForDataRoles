@@ -102,14 +102,6 @@
 - [ ] Advanced Data Structure
 - [ ] Other
 
-#### 1.1. <a name='PracticeUsingSpecialView'></a>Practice using Special View
-
-- [ ] Object Oriented Design
-- [ ] Amazon Online Assessment
-- [ ] Microsoft Online Assessment
-- [ ] Google Online Assessment
-- [ ] Twitter Online Assessment
-
 ## <a name='CodingInterviewPatterns'></a>Coding Interview Patterns
 
 <a href="https://medium.com/@manralai/only-15-patterns-to-master-any-coding-interview-570a3afc9042">Patterns</a>
