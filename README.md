@@ -42,7 +42,7 @@
 </label>
 
 - [X] <a href="https://www.youtube.com/watch?v=sl8sMXwWVbw">Nodes</a> 
-- [X] <a href="https://www.youtube.com/watch?v=8ihoMeITq8g">Linked List  + All Operations</a>
+- [X] <a href="https://www.youtube.com/watch?v=8ihoMeITq8g">Linked List</a>
   - [X] <a href="https://www.youtube.com/watch?v=XT2ESCMV4_M">Singly Linked List + All Operations</a>
   - [X] <a href="https://www.youtube.com/watch?v=aYkDFs-ATR0">Doubly Linked List + All Operations</a>
   - [X] <a href="https://www.youtube.com/watch?v=vYjW5ggHUSQ">Circular Linked List</a>
