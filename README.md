@@ -115,7 +115,7 @@
 
 ## 4. <a name='CodingInterviewPatterns'></a>Coding Interview Patterns
 
-### <a name='Patterns'></a>Patterns
+<a href="https://medium.com/@manralai/only-15-patterns-to-master-any-coding-interview-570a3afc9042">Patterns</a>
 
 - [ ] Sliding Window
 - [ ] Two Pointers
