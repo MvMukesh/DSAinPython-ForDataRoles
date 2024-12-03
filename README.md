@@ -16,27 +16,9 @@
 ---
 
 
-## <a name='TableofContent'></a>Table of Content
-
 <!--https://www.linkedin.com/in/mukesh-manral/ -->
 <!-- vscode-markdown-toc -->
 
-* 1. [Table of Content](#TableofContent)
-* 2. [Data Structures Implementation](#DataStructuresImplementation)
-
-  * 2.1. [Common DS Implementation](#CommonDSImplementation)
-  * 2.2. [Common Algo Implementation](#CommonAlgoImplementation)
-* 3. [Topic in Special View](#SpecialView)
-
-  * 3.1. [Topic in Special View](#SpecialView)
-    * 3.1.1. [Practice Using Special View](#PracticeUsingSpecialView)
-* 4. [Coding Interview Patterns](#CodingInterviewPatterns)
-
-  * 4.1. [Patterns](#Patterns)
-* 5. [Dynamic Programming Patterns](#DynamicProgrammingPatterns)
-
-  * 5.1. [Patterns](#Patterns-1)
-* 6. [System Design Imp.](#SystemDesign)
 
 <!-- vscode-markdown-toc-config
     numbering=true
@@ -46,9 +28,9 @@
 <!-- /vscode-markdown-toc -->
 
 
-## <a name='DataStructuresImplementation'></a>Data Structures Implementation
+<h2> <a name='DataStructuresImplementation'></a>Data Structures Implementation</h2>
 
-### 2.1. <a name='CommonDSImplementation'></a>Common DS Implementation
+### 1. <a name='CommonDSImplementation'></a>Common DS Implementation
 
 <label>
   
@@ -83,7 +65,7 @@
   - [ ] BFS
   - [ ] DFS
 
-### 2.2. <a name='CommonAlgoImplementation'></a>Common Algo Implementation
+### 2. <a name='CommonAlgoImplementation'></a>Common Algo Implementation
 
 - [ ] Sorting
   - [ ] Binary
@@ -104,9 +86,9 @@
   - [ ] Rabin Karp
 
 
-## <a name='SpecialView'></a>Special View
+<h2> <a name='SpecialView'></a>Special View</h2>
 
-### 3.1. <a name='TopicinSpecialView'></a>Topics in Special View
+### 1. <a name='TopicinSpecialView'></a>Topics in Special View
 
 - [ ] Binary Search
 - [ ] Depth First Search
@@ -120,7 +102,7 @@
 - [ ] Advanced Data Structure
 - [ ] Other
 
-#### 3.1.1. <a name='PracticeUsingSpecialView'></a>Practice using Special View
+#### 1.1. <a name='PracticeUsingSpecialView'></a>Practice using Special View
 
 - [ ] Object Oriented Design
 - [ ] Amazon Online Assessment
@@ -152,7 +134,7 @@
 
 ## <a name='DynamicProgrammingPatterns'></a>Dynamic Programming Patterns
 
-### 5.1. <a name='Patterns-1'></a>Patterns
+### <a name='Patterns-1'></a>Patterns
 
 - [ ] Knapsack
 - [ ] Unbounded Knapsack
