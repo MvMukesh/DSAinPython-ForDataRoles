@@ -30,7 +30,7 @@
 
 <h2> <a name='DataStructuresImplementation'></a>Data Structures Implementation</h2>
 
-### 1. <a name='CommonDSImplementation'></a>Common DS Implementation
+### 1. <a name='CommonDSImplementation'></a>`DataStructures Implementation`
 
 <label>
   
@@ -65,7 +65,7 @@
   - [ ] BFS
   - [ ] DFS
 
-### 2. <a name='CommonAlgoImplementation'></a>Common Algo Implementation
+### 2. <a name='CommonAlgoImplementation'></a>`Algorithms Implementation`
 
 - [ ] Sorting
   - [ ] Binary
