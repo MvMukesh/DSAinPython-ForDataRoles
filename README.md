@@ -33,7 +33,7 @@
 
 [![Playlist Image](https://github.com/user-attachments/assets/11351d8a-56d7-4f8c-ae63-796bd379a795)](https://www.youtube.com/playlist?list=PLREhfdPXr-ejqAKVpVSVPhVLQKyRsVc1N)
 
-<h2> <a name='DataStructuresImplementation'></a>`Data Structures Implementation - Videos`</h2>
+<h2> <a name='DataStructuresImplementation'></a>Data Structures Implementation - Videos</h2>
 
 
 - [X] <a href="https://www.youtube.com/watch?v=sl8sMXwWVbw">Nodes</a> 
@@ -164,3 +164,21 @@
 - Quick Glance for Practiced Questions
 
   - [ALGO-DS Quick Cheat Sheet](https://github.com/sherxon/AlgoDS)
+
+
+#### Tests
+```bash
+$ poetry install
+$ poetry run pytest --benchmark-skip
+```
+If you don't use [poetry](https://python-poetry.org/), there is also a classic `requirements.txt` file. to be updated...
+
+#### Bugs
+
+If you find any bug or incorrect implementation in this repo, please let me know by opening an issue or pull request. Data community would appreciate your help since they provide some random strings which are used in two of test cases.
+
+#### Also Refer
+
+- [Big-O Cheat Sheet](https://www.bigocheatsheet.com/)
+- [Data Structure Visualizations](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
+- [Visualize Python Code Execution](http://www.pythontutor.com/live.html#mode=edit)
