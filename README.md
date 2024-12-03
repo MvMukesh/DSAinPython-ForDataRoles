@@ -28,7 +28,7 @@
 <!-- /vscode-markdown-toc -->
 
 
-<h2> <a name='DataStructuresImplementation'></a>Data Structures Implementation</h2>
+<h2> <a name='DataStructuresImplementation'></a>Data Structures Implementation - Videos</h2>
 
 ### 1. <a name='CommonDSImplementation'></a>`DataStructures Implementation`
 
