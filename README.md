@@ -159,7 +159,7 @@ Hack 5: If given problem is LinkedList one, and ExtraSpace is not allowed
 - [ ] <a href="https://leetcode.com/discuss/study-guide/1688903/Solved-all-two-pointers-problems-in-100-days">Two Pointers</a>
     - [ ] Fast and Slow Pointers
 - [ ] In-place reversal of Linked List
-- [ ] Sliding Window
+- [ ] <a href="https://leetcode.com/problems/frequency-of-the-most-frequent-element/solutions/1175088/C++-Maximum-Sliding-Window-Cheatsheet-Template/">Sliding Window</a> 
 - [ ] Island Matrix Traversal
 - [ ] Merge Intervals
 - [ ] Cyclic Sort
