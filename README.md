@@ -95,6 +95,8 @@
 
 <a href="https://medium.com/@manralai/only-15-patterns-to-master-any-coding-interview-570a3afc9042">Patterns</a>
 
+![pubchart](https://github.com/user-attachments/assets/bf30c3d3-f055-4302-abc1-6267b2790a8d)
+
 - [ ] Two Pointers
 - [ ] Fast and Slow Pointers
 - [ ] In-place reversal of Linked List
