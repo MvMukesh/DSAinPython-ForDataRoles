@@ -156,7 +156,7 @@ Hack 5: If given problem is LinkedList one, and ExtraSpace is not allowed
 <p align="center">
   <kbd><img src="https://github.com/user-attachments/assets/bf30c3d3-f055-4302-abc1-6267b2790a8d" width=350 height=200 alt="Intension of analysis.png"></kbd> </p>
   
-- [ ] <a href="[https://www.youtube.com/watch?v=sl8sMXwWVbw](https://leetcode.com/discuss/study-guide/1688903/Solved-all-two-pointers-problems-in-100-days)">Two Pointers</a>
+- [ ] <a href="https://leetcode.com/discuss/study-guide/1688903/Solved-all-two-pointers-problems-in-100-days">Two Pointers</a>
 - [ ] Fast and Slow Pointers
 - [ ] In-place reversal of Linked List
 - [ ] Sliding Window
