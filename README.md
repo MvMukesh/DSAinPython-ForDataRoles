@@ -91,7 +91,7 @@
   - [ ] Rabin Karp
 
 
-## <a name='Hack'></a>Hack
+## <a name='Patterns and Hacks'></a>Hack
 ```bash
 Pattern 1: Given input is a sorted (array, list or matrix)
             Use a variation of:
