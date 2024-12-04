@@ -95,12 +95,13 @@
 
 <a href="https://medium.com/@manralai/only-15-patterns-to-master-any-coding-interview-570a3afc9042">Patterns</a>
 
-- [ ] Sliding Window
 - [ ] Two Pointers
 - [ ] Fast and Slow Pointers
+- [ ] In-place reversal of Linked List
+- [ ] Sliding Window
+- [ ] Island Matrix Traversal
 - [ ] Merge Intervals
 - [ ] Cyclic Sort
-- [ ] In-place reversal of Linked List
 - [ ] Tree: Breadth First Search
 - [ ] Tree: Depth First Search
 - [ ] Two Heaps
@@ -109,9 +110,10 @@
 - [ ] Bitwise XOR
 - [ ] Top K Element
 - [ ] K-way merge
-- [ ] 0-1 Knapsack
-- [ ] Topological Sort
-- [ ] Miscellaneous
+- [ ] Backtracking
+- [ ] 0-1 Knapsack (DP)
+- [ ] Topological Sort (Graph)
+- [ ] Multi-threaded
 
 ## <a name='DynamicProgrammingPatterns'></a>Dynamic Programming Patterns
 
