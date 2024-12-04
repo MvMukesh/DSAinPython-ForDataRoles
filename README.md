@@ -2,9 +2,7 @@
 
 [![Playlist Image](https://github.com/user-attachments/assets/11351d8a-56d7-4f8c-ae63-796bd379a795)](https://www.youtube.com/playlist?list=PLREhfdPXr-ejqAKVpVSVPhVLQKyRsVc1N)
 
-
-
- <h2><a href="https://www.youtube.com/playlist?list=PLREhfdPXr-ejqAKVpVSVPhVLQKyRsVc1N">Full PlayList</a></h2>
+<h2><a href="https://www.youtube.com/playlist?list=PLREhfdPXr-ejqAKVpVSVPhVLQKyRsVc1N">Full PlayList</a></h2>
 
 
 | Problem Count | Topic |Level                            | Problem | Solution | Notes | Time | R - 1 | R - 2 | R - 3 |
