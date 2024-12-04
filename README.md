@@ -2,6 +2,8 @@
 
 [![Playlist Image](https://github.com/user-attachments/assets/11351d8a-56d7-4f8c-ae63-796bd379a795)](https://www.youtube.com/playlist?list=PLREhfdPXr-ejqAKVpVSVPhVLQKyRsVc1N)
 
+
+
  <h2><a href="https://www.youtube.com/playlist?list=PLREhfdPXr-ejqAKVpVSVPhVLQKyRsVc1N">Full PlayList</a></h2>
 
 
@@ -95,8 +97,9 @@
 
 <a href="https://medium.com/@manralai/only-15-patterns-to-master-any-coding-interview-570a3afc9042">Patterns</a>
 
-![pubchart](https://github.com/user-attachments/assets/bf30c3d3-f055-4302-abc1-6267b2790a8d)
-
+<p align="center">
+  <kbd><img src="https://github.com/user-attachments/assets/bf30c3d3-f055-4302-abc1-6267b2790a8d" width=350 height=200 alt="Intension of analysis.png"></kbd> </p>
+  
 - [ ] Two Pointers
 - [ ] Fast and Slow Pointers
 - [ ] In-place reversal of Linked List
