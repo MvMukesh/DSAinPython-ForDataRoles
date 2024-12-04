@@ -91,6 +91,64 @@
   - [ ] Rabin Karp
 
 
+## <a name='Hack'></a>Hack
+```bash
+Pattern 1: Given input is a sorted (array, list or matrix)
+            Use a variation of:
+                1. Binary Search or
+                2. Two Pointer strategy
+```
+```bash
+Pattern 2: If asked minimum/maximum/top/closest'k' elements among 'n' elements
+            Use:
+                1. Heap
+```
+```bash
+Pattern 3: If required to try all Permutations or Combinations of a input
+            Use either:
+                1. Recursive _ Backtracking or
+                2. Iterative _ Breadth-First Search
+```
+```bash
+Pattern 4: If required to solve Trees or Graph problems
+            Use either:
+                1. Breadth-First Search or
+                2. Depth-First Search
+```
+```bash
+Pattern 5: If given a Set of Strings among that we have to find some Common Substring 
+             Use either:
+                1. HashMap or
+                2. Trie
+```
+```bash
+Hack 1: Try to convert Recursive Solution to Iterative Solution
+            Use Stack
+```
+```bash
+Hack 2: If given problem have a Brute-Force solution in O(n^2)Time and O(1)Space, Try to find out for other Two Solutions 
+             Use either:
+                1. Map or Set for O(n)Time and O(n)Space
+                2. Sorting for O(n log n)Time and O(1)Space
+```
+```bash
+Hack 3: If given problem is to Optimize something, (say Maximization or Minimization)
+             Use:
+                1. Dynamic Programming
+```
+```bash
+Hack 4: If given Bunch of Strings and asked to search something 
+             Use either:
+                1. HashMap or
+                2. Trie
+```
+```bash
+Hack 5: If given problem is LinkedList one, and ExtraSpace is not allowed  
+             Use:
+                1. Fast & Slow Pointer approach
+```
+
+
 ## <a name='CodingInterviewPatterns'></a>Coding Interview Patterns
 
 <a href="https://medium.com/@manralai/only-15-patterns-to-master-any-coding-interview-570a3afc9042">Patterns</a>
