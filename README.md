@@ -203,6 +203,7 @@ Hack 5: If given problem is LinkedList one, and ExtraSpace is not allowed
 - Practice Java / Create Projects in JAVA
 - Reserve time for writing notes and practicing flashcards
 
+<!--
 *`Refrences`*:
 
 - Guided Study[Algo Monster](https://algo.monster/problems/stats)[Grokking the Coding Interview](https://www.educative.io/courses/grokking-the-coding-interview)
@@ -227,8 +228,8 @@ Hack 5: If given problem is LinkedList one, and ExtraSpace is not allowed
 - Quick Glance for Practiced Questions
 
   - [ALGO-DS Quick Cheat Sheet](https://github.com/sherxon/AlgoDS)
-
-
+--->
+  
 #### Tests
 ```bash
 $ poetry install
