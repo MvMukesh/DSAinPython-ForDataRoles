@@ -49,10 +49,51 @@
         - [ ] <a href="">Circular Doubly Linked List + All Deletion Operations</a>
 - [ ] Array & List    
 - [ ] Stack
+    - [ ] Array-based implementation
+    - [ ] LinkedList-based implementation 
 - [ ] Queue
-- [ ] Hashmap
-- [ ] Tree
+    - [ ] Array-based implementation
+    - [ ] Linked list-based implementation
+    - [ ] Circular queue
+    - [ ] Priority queue
+    - [ ] Deque (double-ended queue)
+- [ ] Hash Tables
+    - [ ] HashMap
+    - [ ] HashSet
+    - [ ] Collision resolution techniques (chaining, open addressing)
+- [ ] `Tree (Data Structures)`
   - [ ] Tree Implementation
+  - [ ] Binary Trees
+      - [ ] Full binary tree
+      - [ ] Complete binary tree
+      - [ ] Perfect binary tree
+  - [ ] Binary Search Trees (BST)
+      - [ ] Balanced BST (e.g., AVL tree, Red-Black tree)
+      - [ ] Splay tree
+      - [ ] Treap
+  - [ ] Heaps
+      - [ ] Min-heap
+      - [ ] Max-heap
+      - [ ] Binary heap
+      - [ ] Fibonacci heap
+      - [ ] Binomial heap
+  - [ ] Tries (Prefix Trees)
+      - [ ] Standard trie
+      - [ ] Compressed trie (Radix tree)
+      - [ ] Suffix trie
+  - [ ] Segment Trees
+      - [ ] Standard segment tree
+      - [ ] Lazy propagation
+  - [ ] Fenwick Trees (Binary Indexed Trees)
+      - [ ] Standard Fenwick tree
+  - [ ] B-Trees
+      - [ ] B-tree
+      - [ ] B+ tree
+      - [ ] B* tree
+  - [ ] Quad Trees
+      - [ ] Standard quad tree
+  - [ ] K-D Trees
+      - [ ] Standard K-D tree
   - [ ] Inorder
     - [ ] Recursive
     - [ ] Iterative
@@ -62,13 +103,50 @@
   - [ ] PostOrder
     - [ ] Recursive
     - [ ] Iterative
-  - [ ] AVL Tree
-- [ ] Trie
-- [ ] Hased Array Tree
-- [ ] LRU Cache
-- [ ] Graph
-  - [ ] BFS
-  - [ ] DFS
+- [ ] `Graph Data Structures`
+  - [ ] Graphs
+      - [ ] Adjacency matrix
+      - [ ] Adjacency list
+      - [ ] Edge list  
+  - [ ] Specialized Graphs
+      - [ ] Directed graph (digraph)
+      - [ ] Weighted graph
+      - [ ] Undirected graph
+      - [ ] Directed Acyclic Graph (DAG)
+
+**`Advanced Data Structures`**
+- [ ] Disjoint Set (Union-Find)
+    - [ ] Quick-find
+    - [ ] Quick-union
+    - [ ] Union by rank
+    - [ ] Path compression
+- [ ] Bloom Filters
+    - [ ] Standard Bloom filter
+    - [ ] Counting Bloom filter
+- [ ] Skip Lists
+    - [ ] Standard skip list
+- [ ] Suffix Arrays
+    - [ ] Standard suffix array
+- [ ] Sparse Tables
+    - [ ] Standard sparse table
+
+**`Specialized Data Structures`**
+- [ ] Trie Variants
+    - [ ] Patricia trie
+    - [ ] Suffix tree
+- [ ] Spatial Data Structures
+    - [ ] R-tree
+    - [ ] R*-tree
+    - [ ] k-d tree
+    - [ ] Quad tree
+- [ ] Multidimensional Data Structures
+    - [ ] Range tree
+    - [ ] Interval tree
+- [ ] Persistent Data Structures
+    - [ ] Persistent array
+    - [ ] Persistent list
+    - [ ] Persistent tree
+
 
 ### 2. <a name='CommonAlgoImplementation'></a>`Algorithms Implementation`
 
