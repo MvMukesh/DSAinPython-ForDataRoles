@@ -1,4 +1,4 @@
-# Approches and Problem-Solving
+# Basics to Approches and Problem-Solving
 
 [![Playlist Image](https://github.com/user-attachments/assets/11351d8a-56d7-4f8c-ae63-796bd379a795)](https://www.youtube.com/playlist?list=PLREhfdPXr-ejqAKVpVSVPhVLQKyRsVc1N)
 
