@@ -1,4 +1,4 @@
-# Basics to Approches and Problem-Solving
+![image (21) (1)](https://github.com/user-attachments/assets/36619e56-22eb-4167-932e-35da4a6c3383)# Basics to Approches and Problem-Solving
 
 [![Playlist Image](https://github.com/user-attachments/assets/11351d8a-56d7-4f8c-ae63-796bd379a795)](https://www.youtube.com/playlist?list=PLREhfdPXr-ejqAKVpVSVPhVLQKyRsVc1N)
 
@@ -32,6 +32,8 @@
 
 
 [![Playlist Image](https://github.com/user-attachments/assets/11351d8a-56d7-4f8c-ae63-796bd379a795)](https://www.youtube.com/playlist?list=PLREhfdPXr-ejqAKVpVSVPhVLQKyRsVc1N)
+
+<hr>
 
 <h2> <a name='DataStructuresImplementation'></a>Data Structures Implementation - `Videos`</h2>
 
@@ -147,8 +149,11 @@
     - [ ] Persistent list
     - [ ] Persistent tree
 
+![image (21) (1)](https://github.com/user-attachments/assets/baef3034-12be-4f31-9e16-e26da25268f8)
 
-### 2. <a name='CommonAlgoImplementation'></a>`Algorithms Implementation`
+<hr>
+
+### <a name='CommonAlgoImplementation'></a>`Algorithms Implementation`
 
 - [ ] Sorting
   - [ ] Binary
@@ -168,6 +173,9 @@
 - [ ] String
   - [ ] Rabin Karp
 
+![image (5) (1)](https://github.com/user-attachments/assets/2a7a2a71-9dbc-4099-b216-793daa2ecd48)
+
+<hr>
 
 ## <a name='Patterns and Hacks'></a>Patterns & Hacks
 ```bash
