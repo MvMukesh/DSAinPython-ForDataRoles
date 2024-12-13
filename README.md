@@ -1,6 +1,6 @@
 # Basics to Approches and Problem-Solving
 
-[![GitHub Issues](https://img.shields.io/github/issues/MvMukesh/DSAinPython-ForDataRoles.svg)![GitHub followers](https://img.shields.io/github/followers/MvMukesh.svg?style=social\&label=Follow\&maxAge=2592000)](https://github.com/MvMukesh?tab=followers) [![GitHub forks](https://img.shields.io/github/forks/MvMukesh/DSAinPython-ForDataRoles.svg?style=social\&label=Fork\&maxAge=2592000)](https://github.com/MvMukesh/DSAinPython-ForDataRoles/network/) [![GitHub stars](https://img.shields.io/github/stars/MvMukesh/DSAinPython-ForDataRoles.svg?style=social\&label=Star\&maxAge=2592000)](https://github.com/MvMukesh/DSAinPython-ForDataRoles/stargazers/)
+[![GitHub Issues](https://img.shields.io/github/issues/MvMukesh/DSAinPython-ForDataRoles.svg) ![GitHub followers](https://img.shields.io/github/followers/MvMukesh.svg?style=social\&label=Follow\&maxAge=2592000)](https://github.com/MvMukesh?tab=followers) [![GitHub forks](https://img.shields.io/github/forks/MvMukesh/DSAinPython-ForDataRoles.svg?style=social\&label=Fork\&maxAge=2592000)](https://github.com/MvMukesh/DSAinPython-ForDataRoles/network/) [![GitHub stars](https://img.shields.io/github/stars/MvMukesh/DSAinPython-ForDataRoles.svg?style=social\&label=Star\&maxAge=2592000)](https://github.com/MvMukesh/DSAinPython-ForDataRoles/stargazers/)
 
 <hr>
 
