@@ -1,4 +1,4 @@
-![image (21) (1)](https://github.com/user-attachments/assets/36619e56-22eb-4167-932e-35da4a6c3383)# Basics to Approches and Problem-Solving
+# Basics to Approches and Problem-Solving
 
 [![Playlist Image](https://github.com/user-attachments/assets/11351d8a-56d7-4f8c-ae63-796bd379a795)](https://www.youtube.com/playlist?list=PLREhfdPXr-ejqAKVpVSVPhVLQKyRsVc1N)
 
@@ -149,7 +149,14 @@
     - [ ] Persistent list
     - [ ] Persistent tree
 
-![image (21) (1)](https://github.com/user-attachments/assets/baef3034-12be-4f31-9e16-e26da25268f8)
+
+<details>
+    <summary>Click Here: (Data Structures Time & Space Complexity)</summary>
+    <div>
+        <img src="https://github.com/user-attachments/assets/baef3034-12be-4f31-9e16-e26da25268f8" alt="ds_Time-Space cheet">
+    </div>
+</details>
+
 
 <hr>
 
@@ -173,7 +180,13 @@
 - [ ] String
   - [ ] Rabin Karp
 
-![image (5) (1)](https://github.com/user-attachments/assets/2a7a2a71-9dbc-4099-b216-793daa2ecd48)
+<details>
+    <summary>Click Here: Algorithms Time & Space Complexity)</summary>
+    <div>
+        <img src="https://github.com/user-attachments/assets/2a7a2a71-9dbc-4099-b216-793daa2ecd48" alt="algo_Time-Space Cheet">
+    </div>
+</details>
+
 
 <hr>
 
