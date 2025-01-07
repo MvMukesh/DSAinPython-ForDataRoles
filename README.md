@@ -1,3 +1,16 @@
+<div align="center"> 
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/mukesh-manral/"><img src="https://img.shields.io/badge/LinkedIn-411AFF?style=for-the-badge&logo=LinkedIn&logoColor=white" /></a>  
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.kaggle.com/mukeshmanral"><img src="https://img.shields.io/badge/Kaggle-411AFF?style=for-the-badge&logo=Kaggle&logoColor=white" /></a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://medium.com/@manralai/lists"><img src="https://img.shields.io/badge/Medium-411AFF?style=for-the-badge&logo=Medium&logoColor=white" /></a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.youtube.com/@manralai"><img src="https://img.shields.io/badge/Youtube-411AFF?style=for-the-badge&logo=Youtube&logoColor=white" /></a>
+&nbsp;&nbsp;&nbsp;&nbsp; 
+<a href="https://www.instagram.com/manralai/"><img src="https://img.shields.io/badge/Instagram-411AFF?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
+</div>
+
 # Basics to Approches and Problem-Solving
 
 [![GitHub Issues](https://img.shields.io/github/issues/MvMukesh/DSAinPython-ForDataRoles.svg) ![GitHub followers](https://img.shields.io/github/followers/MvMukesh.svg?style=social\&label=Follow\&maxAge=2592000)](https://github.com/MvMukesh?tab=followers) [![GitHub forks](https://img.shields.io/github/forks/MvMukesh/DSAinPython-ForDataRoles.svg?style=social\&label=Fork\&maxAge=2592000)](https://github.com/MvMukesh/DSAinPython-ForDataRoles/network/) [![GitHub stars](https://img.shields.io/github/stars/MvMukesh/DSAinPython-ForDataRoles.svg?style=social\&label=Star\&maxAge=2592000)](https://github.com/MvMukesh/DSAinPython-ForDataRoles/stargazers/)
